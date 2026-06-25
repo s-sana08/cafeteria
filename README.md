@@ -72,10 +72,9 @@ This system automates cafeteria operations inside a company environment where:
 - Database: MySQL
 - UI Alerts: SweetAlert2
 
----
-
 ## 📂 Project Structure
 
+```plaintext
 cafeteria/
 │
 ├── api/
@@ -97,9 +96,7 @@ cafeteria/
 ├── index.php
 ├── dashboard.php
 ├── login.php
-
----
-
+```
 ## ⚙️ Installation Guide
 
 ### 1️⃣ Clone Project
@@ -184,7 +181,7 @@ This system improves efficiency, reduces manual work, and provides a centralized
 ## 👨‍💻 Developer
 
 Project Name: Cafeteria Management System  
-Developer: SS Dev Team  
+Developer: Sana Shaikh 
 Type: Internal Enterprise Project  
 
 ---
