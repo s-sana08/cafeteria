@@ -49,8 +49,8 @@ try {
     $mail->Host       = 'smtp.gmail.com';
     $mail->SMTPAuth   = true;
 
-    $mail->Username   = 'sana.shaikh.dev@gmail.com';  
-    $mail->Password   = 'ondh tksb ausu muvw';    
+    $mail->Username   = 'youremail@gmail.com';  //chaange this
+    $mail->Password   = 'your app password';    //chaange this
 
     $mail->SMTPSecure = 'tls';
     $mail->Port       = 587;
